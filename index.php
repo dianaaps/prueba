@@ -12,7 +12,7 @@
     </header>
     
     <section>
-        <form id="frm" method="post" action="login.php">
+        <form id="frm" method="post" action="controlador/login.php">
             Clave  <input type="text" name="txtCve" required="true"/>
             <br/>
             Contrase&ntilde;a  <input type="password" name="txtPwd" required="true"/>
